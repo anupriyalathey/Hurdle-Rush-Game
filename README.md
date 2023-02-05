@@ -16,6 +16,8 @@ Another advantage is that one item(like skins) from this game can be used in oth
 
 ## Dapp is deployed on https://hurdle-rush.vercel.app/
 
+## Demo video - https://www.loom.com/share/32741400641449daa1b283e35db69e2a
+
 ## Contracts are deployed on polygon mumbai testnet
  *  0x305eA05cDE386C7edb61ee97cef00D8880D1f7e2
  * 0xD722487eFa7c065a363Eec19cc368a60D564416a
