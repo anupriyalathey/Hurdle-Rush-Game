@@ -22,5 +22,11 @@ Another advantage is that one item(like skins) from this game can be used in oth
  
 Visit https://testnets.opensea.io/ to view your NFTs after minting.
 
-Images are taken from https://www.flaticon.com/
+## Screenshots
+![cover](https://user-images.githubusercontent.com/90963726/216806172-23be9e17-17e3-4026-a0da-24155cb604d8.jpg)
+![4](https://user-images.githubusercontent.com/90963726/216806187-a90cb77c-ec06-464b-aaf2-b72eb10d032f.jpg)
+![3](https://user-images.githubusercontent.com/90963726/216806202-5e353e4c-8a01-4f1b-a12a-9f8e58b9125d.jpg)
+
+
+Images in game are taken from https://www.flaticon.com/
 
