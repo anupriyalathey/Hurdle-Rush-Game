@@ -12,7 +12,7 @@ async function connectMetamask() {
 }
 
 async function claimTokens() {
-  const runTokenContractAddress = "0x00bcD49DcEaDbB4b9c7fF9E54a64CF2ad61ead61";
+  const runTokenContractAddress = "0x305eA05cDE386C7edb61ee97cef00D8880D1f7e2";
   const runTokenContractAbi = [
     "function mintTokens(address account, uint256 amount) public",
   ];
@@ -29,7 +29,9 @@ async function claimTokens() {
 }
 
 async function claimNft() {
-  const nftContractAddress = "0x093298F529abdfCdA505e5C80A896478Dc32841a";
+  // const nftContractAddress = "0x093298F529abdfCdA505e5C80A896478Dc32841a";
+  const nftContractAddress = "0xD722487eFa7c065a363Eec19cc368a60D564416a";
+
   const mintContractAbi = ["function mint(uint256 amount) public"];
   const nftContract = new ethers.Contract(
     nftContractAddress,
