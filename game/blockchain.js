@@ -29,7 +29,6 @@ async function claimTokens() {
 }
 
 async function claimNft() {
-  // const nftContractAddress = "0x093298F529abdfCdA505e5C80A896478Dc32841a";
   const nftContractAddress = "0xD722487eFa7c065a363Eec19cc368a60D564416a";
 
   const mintContractAbi = ["function mint(uint256 amount) public"];

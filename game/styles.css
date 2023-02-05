@@ -3,6 +3,7 @@
   user-select: none;
 }
 
+
 body {
   margin: 0;
   display: flex;
@@ -19,9 +20,43 @@ body {
 button {
   position: fixed;
   margin-top: 1px;
+  background-color: #EA4C89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
 }
 
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
+
+
 .nftTotalScore {
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
   position: absolute;
   font-size: 3vmin;
   right: 30vmin;
@@ -29,6 +64,11 @@ button {
 }
 
 .gweiTotalScore {
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
   position: absolute;
   font-size: 3vmin;
   right: 30vmin;
@@ -36,6 +76,11 @@ button {
 }
 
 .score {
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
   position: absolute;
   font-size: 3vmin;
   right: 1vmin;
@@ -65,6 +110,11 @@ button {
 
 
 .score1 {
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
   position: absolute;
   font-size: 3vmin;
   right: 1vmin;
@@ -73,8 +123,13 @@ button {
 
 
 .start-screen {
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  height: 40px;
+  line-height: 20px;
   position: absolute;
-  font-size: 5vmin;
+  color: crimson;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
