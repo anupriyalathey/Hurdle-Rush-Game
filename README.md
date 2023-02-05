@@ -1,3 +1,5 @@
+# HackTU 4.0 Project Submission
+
 # Hurdle Rush Game
 A running game with obstacles, in which you get rewarded with RUN tokens and NFTs which can be minted into your metamask wallet and can be traded further or played in different games too.
 
@@ -20,6 +22,5 @@ Another advantage is that one item(like skins) from this game can be used in oth
  
 Visit https://testnets.opensea.io/ to view your NFTs after minting.
 
-
-
+Images are taken from https://www.flaticon.com/
 
